@@ -51,7 +51,7 @@ namespace Form_Dersleri_1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            frm3 fr3 = new frm3(); //.
+            frm3 fr3 = new frm3();
             fr3.Show();
             
         }
