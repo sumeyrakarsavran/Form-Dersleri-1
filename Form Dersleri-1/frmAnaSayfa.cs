@@ -243,7 +243,7 @@ namespace Form_Dersleri_1
 
         }
 
-        private void listBox2_SelectedIndexChanged(object sender, EventArgs e)
+        private void listBox2_SelectedIndexChanged(object sender, EventArgs e) //.
         {
 
         }
