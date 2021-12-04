@@ -444,5 +444,10 @@ namespace Form_Dersleri_1
             label29.Text = "";
             label29.Text = "seçili eleman sayısı=" + checkedListBox1.CheckedItems.Count; //ne seçersem ona göre değişecek labelda yazan
         }
+
+        private void checkedListBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //.
+        }
     }
 }

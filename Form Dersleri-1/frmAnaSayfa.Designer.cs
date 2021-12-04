@@ -1016,6 +1016,7 @@ namespace Form_Dersleri_1
             this.checkedListBox2.Name = "checkedListBox2";
             this.checkedListBox2.Size = new System.Drawing.Size(120, 89);
             this.checkedListBox2.TabIndex = 83;
+            this.checkedListBox2.SelectedIndexChanged += new System.EventHandler(this.checkedListBox2_SelectedIndexChanged);
             // 
             // frmAnaSayfa
             // 
